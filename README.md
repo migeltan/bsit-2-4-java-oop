@@ -1,5 +1,4 @@
-Gemini said
-Markdown
+
 # BSIT 2-4: Java OOP Class Repository
 
 [![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://adoptium.net/)
