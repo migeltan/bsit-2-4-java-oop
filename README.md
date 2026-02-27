@@ -4,6 +4,7 @@
 [![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://adoptium.net/)
 [![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+![Repository Views](https://komarev.com/ghpvc/?username=lauurnce-bsit-2-4-java-oop&label=Repository%20Views&color=005BBB&style=flat-square)
 
 A Centralized Learning and Code Repository by the Class Representative of BSIT 2-4
 
