@@ -1,8 +1,7 @@
-package javaSubject;
+package feb_26_2026;
 
 public class exampleThree {
 	public static void main(String[] args) {
-		
 		
 
 		int x = 55;
